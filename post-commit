@@ -1,0 +1,4 @@
+#!bin/sh
+echo "wow, much message, very commit" >&2
+exit 1
+
